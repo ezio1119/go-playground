@@ -1,5 +1,6 @@
 # go-playground(ホットリロード)
 ## 使い方
+Makefileの中身をみると何やってるか書いてあります。
 ### 1, イメージをビルド
 ```
 make build
