@@ -1,6 +1,6 @@
 # go-playground(ホットリロード)
 ## 使い方
-Makefileの中身をみると何やってるか書いてあります。
+Makefileでdockerコマンドを実行しています。
 ### 1, イメージをビルド
 ```
 make build
